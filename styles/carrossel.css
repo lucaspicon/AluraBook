@@ -69,6 +69,7 @@
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
+    text-align: center;
 }
 
 @media screen and (min-width: 1024px) {
