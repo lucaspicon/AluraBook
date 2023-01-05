@@ -3,6 +3,7 @@
     height: 24px;
     background-image: url(../img/Menu.svg);
     display: inline-block;
+    background-position: center;
 }
 
 .container__botao:checked~.container__rotulo>.cabecalho__menu-hamburguer {
